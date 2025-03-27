@@ -1,1 +1,47 @@
+# Gradle 相关
+.gradle/
+build/
+local.properties
+
+# IDE 相关
+.idea/
+*.iml
+*.iws
+*.ipr
 .DS_Store
+.kotlin/
+
+# 编译输出
+*.class
+*.dex
+out/
+bin/
+
+# 日志文件
+*.log
+
+# 打包文件
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Kotlin相关
+.kotlin-for-browser/
+kotlin-js-store/
+
+# Mac专有文件
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# 临时文件
+tmp/
+temp/
+
+# 缓存
+.cxx/
+captures/
