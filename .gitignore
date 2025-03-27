@@ -45,3 +45,6 @@ temp/
 # 缓存
 .cxx/
 captures/
+/.gradle
+/.gradle
+/build
