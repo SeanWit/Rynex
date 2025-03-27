@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Volumes/SEANHD/Workspace/Rynex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12262407476071066672.xml:2:13-83
+INJECTED from /Volumes/SEANHD/Workspace/Rynex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12262407476071066672.xml:2:13-83
+	package
+		INJECTED from /Volumes/SEANHD/Workspace/Rynex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12262407476071066672.xml
+	xmlns:android
+		ADDED from /Volumes/SEANHD/Workspace/Rynex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12262407476071066672.xml:2:23-81
+uses-sdk
+INJECTED from /Volumes/SEANHD/Workspace/Rynex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12262407476071066672.xml reason: use-sdk injection requested
+INJECTED from /Volumes/SEANHD/Workspace/Rynex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12262407476071066672.xml
+INJECTED from /Volumes/SEANHD/Workspace/Rynex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12262407476071066672.xml
+	android:targetSdkVersion
+		INJECTED from /Volumes/SEANHD/Workspace/Rynex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12262407476071066672.xml
+	android:minSdkVersion
+		INJECTED from /Volumes/SEANHD/Workspace/Rynex/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest12262407476071066672.xml
