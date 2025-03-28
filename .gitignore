@@ -50,3 +50,5 @@ captures/
 /build
 /.idea
 /.gradle
+.gradle
+.idea
