@@ -48,3 +48,5 @@ captures/
 /.gradle
 /.gradle
 /build
+/.idea
+/.gradle
